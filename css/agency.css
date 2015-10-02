@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #fed136;
+    color: #EF6306;
 }
 
 p {
@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #EF6306;
 }
 
 a:hover,
@@ -70,12 +70,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #fed136;
+    border-color: #EF6306;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #000000;
-    background-color: #fed136;
+    background-color: #EF6306;
 }
 
 .btn-primary:hover,
@@ -109,36 +109,36 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #EF6306;
+    background-color: #EF6306;
 }
 
 .btn-primary .badge {
-    color: #fed136;
+    color: #EF6306;
     background-color: #fff;
 }
 .btn-form {
     padding: 10px 20px
-    border-color: #fed136;
+    border-color: #EF6306;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     color: #fff;
-    background-color: #fed136;
+    background-color: #EF6306;
 }
 
 	
 .btn-xl {
     padding: 20px 40px;
-    border-color: #fed136;
+    border-color: #EF6306;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
-    background-color: #fed136;
+    color: white;
+    background-color: #EF6306;
 }
 
 .btn-xl:hover,
@@ -172,23 +172,23 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #EF6306;
+    background-color: #EF6306;
 }
 
 .btn-xl .badge {
-    color: #fed136;
+    color: #EF6306;
     background-color: #fff;
 }
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: white;
 }
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    color: #EF6306;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -203,8 +203,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #EF6306;
+    background-color: #EF6306;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -213,7 +213,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fed136;
+    background-color: #EF6306;
 }
 
 .navbar-default .nav li a {
@@ -221,19 +221,19 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: black;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: #EF6306;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
-    background-color: #fed136;
+    color: black;
+    background-color: #EF6306;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -246,7 +246,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: white;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -265,7 +265,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: white;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -355,7 +355,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0;
     }
 }
 
@@ -507,7 +507,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #EF6306;
 }
 
 .timeline>li .timeline-image h4 {
@@ -694,7 +694,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #EF6306;
     box-shadow: none;
 }
 
@@ -772,7 +772,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    background-color: #EF6306;
 }
 
 .btn:focus,
@@ -860,12 +860,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fed136;
+    background: #EF6306;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #EF6306;
 }
 
 img::selection {
@@ -877,5 +877,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #fed136;
+    webkit-tap-highlight-color: #EF6306;
 }
